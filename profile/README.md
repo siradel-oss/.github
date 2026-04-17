@@ -10,15 +10,7 @@ visualization, and interactive no-code dashboard creation.
 ---
 ## Repositories
 
-| Project      | Description                                                       | Links                                                                 |
-| ------------ | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [horizon](https://github.com/siradel-oss/Horizon) | Cross-platform geographic 3D engine |  |
-|              |                                                                   |                                                                       |
-
----
-## Contributing
-
-We welcome bug reports, feature requests, and pull requests.
+Coming soon ! 
 
 ---
 
