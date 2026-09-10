@@ -69,14 +69,16 @@ Thoroughly clean the project of sensitive or inappropriate content:
 
 Each file covered by the license should include a header with the appropriate copyright and license information. In addition, the repository should contain the full license text. Tools such as [addlicense](https://github.com/google/addlicense) can help automate this process.
 
+Example using SPDX tags:
+
 ```cpp
 /**
- * SPDX-FileCopyrightText: Copyright 2026 Siradel and contributors
- * SPDX-License-Identifier: MIT OR Apache-2.0
+ * SPDX-FileCopyrightText: Copyright 2026 Siradel
+ * SPDX-License-Identifier: MIT
  */
 ```
 
-The given year should correspond to the year of the first publication of the file. When refactoring or moving code around, use your best judgment to determine whether the original year should be retained or updated.
+The given year should correspond to the year of file creation, if known, or of first publication. When refactoring or moving code around, use your best judgment to determine whether the original year should be retained or updated.
 
 ### Step 5: Publication
 - Change repository visibility from private to public.
@@ -85,7 +87,8 @@ The given year should correspond to the year of the first publication of the fil
 ## Post-publication steps
 
 ### Documentation and promotion
-- Add the project to Siradel's list of open source projects.
+- Add the project to Siradel's list of open source projects, if significant.
+    - In this repository, `profile/README.md`.
 - Depending on the project's significance, consider internal or external announcements.
 
 ### Ongoing Management
