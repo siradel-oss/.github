@@ -25,7 +25,9 @@ Issues marked with `help wanted` or `good first issue` are good candidates for c
 
 Please comment on the issue you are working on to let others know. This helps prevent duplicate work and allows for collaboration.
 
-Larger contributions may require more discussion and planning. If you are interested in working on a larger feature or improvement, please open an issue to discuss your ideas before starting work.
+We reserve the right to decline contributions that do not align with the project's goals, or would incur a significant maintenance overhead. Such decisions will be communicated clearly to the contributor.
+
+Larger contributions may require more discussion and planning. If you are interested in working on a larger feature or improvement, please open an issue to discuss your ideas before starting work. This is especially important because of the previous point, as we want to ensure that your efforts are aligned with the project's goals and priorities.
 
 To submit a pull request, please follow these steps:
 
