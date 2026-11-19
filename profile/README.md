@@ -38,33 +38,8 @@ only the building blocks it takes:
 
 ## Demos
 
-Open-source web applications built on the ecosystem with open data. Each one
-has a live version and its full source code.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://oss.siradel.com/horizon-demo-reunion-island/"><img src="https://raw.githubusercontent.com/siradel-oss/horizon-demo-reunion-island/HEAD/.github/screenshot.webp" alt="Hiking trail in the Cilaos cirque on a 3D model of Reunion Island"></a>
-      <br><b>Reunion Island Explorer</b>
-      <br>Hiking trails with elevation profiles, drone flyovers and LiDAR trees.
-      <br><a href="https://oss.siradel.com/horizon-demo-reunion-island/">Live demo</a> · <a href="https://github.com/siradel-oss/horizon-demo-reunion-island">Code</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://oss.siradel.com/horizon-demo-ign-geoplateforme/"><img src="https://raw.githubusercontent.com/siradel-oss/horizon-demo-ign-geoplateforme/HEAD/.github/screenshot.webp" alt="IGN Géoplateforme relief on a 3D globe"></a>
-      <br><b>IGN Explorer</b>
-      <br>The IGN Géoplateforme catalogue on a 3D globe: WMTS, WMS, vector tiles, elevation.
-      <br><a href="https://oss.siradel.com/horizon-demo-ign-geoplateforme/">Live demo</a> · <a href="https://github.com/siradel-oss/horizon-demo-ign-geoplateforme">Code</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://oss.siradel.com/horizon-demo-coastline-erosion/"><img src="https://raw.githubusercontent.com/siradel-oss/horizon-demo-coastline-erosion/HEAD/.github/screenshot.webp" alt="Projected 2100 coastline retreat shown in 3D"></a>
-      <br><b>Shoreline Explorer</b>
-      <br>Coastal erosion in France: historical coastlines and 2050/2100 projections.
-      <br><a href="https://oss.siradel.com/horizon-demo-coastline-erosion/">Live demo</a> · <a href="https://github.com/siradel-oss/horizon-demo-coastline-erosion">Code</a>
-    </td>
-  </tr>
-</table>
-
-All demos: [sce.oss.siradel.com/demos](https://sce.oss.siradel.com/demos/)
+See the ecosystem running on open data, each demo with a live version and its
+source code: [sce.oss.siradel.com/demos](https://sce.oss.siradel.com/demos/)
 
 ## Websites
 
@@ -73,15 +48,6 @@ All demos: [sce.oss.siradel.com/demos](https://sce.oss.siradel.com/demos/)
 | [sce.oss.siradel.com](https://sce.oss.siradel.com) | The SCE ecosystem: its building blocks and the demo gallery |
 | [horizon.oss.siradel.com](https://horizon.oss.siradel.com) | Horizon, the 3D engine: documentation, guides and API reference |
 | [siradel.com](https://www.siradel.com) | Siradel, products and enterprise offers |
-
-## Other repositories
-
-- [bazel-registry](https://github.com/siradel-oss/bazel-registry): Siradel's Bazel modules
-- [glslang-prebuilt](https://github.com/siradel-oss/glslang-prebuilt) and
-  [clang-format-prebuilt](https://github.com/siradel-oss/clang-format-prebuilt):
-  prebuilt tools as Bazel modules
-- [sce-website](https://github.com/siradel-oss/sce-website) and
-  [horizon-website](https://github.com/siradel-oss/horizon-website): the sources of our websites
 
 ## Get involved
 
