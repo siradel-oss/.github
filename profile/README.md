@@ -4,53 +4,42 @@
 
 **Open-source building blocks for 3D geospatial applications and digital twins.**
 
-[Website](https://sce.oss.siradel.com) ·
-[Horizon 3D engine](https://github.com/siradel-oss/horizon) ·
+[SCE ecosystem](https://sce.oss.siradel.com) ·
+[Horizon 3D engine](https://horizon.oss.siradel.com) ·
 [Live demos](https://sce.oss.siradel.com/demos/) ·
-[YouTube](https://www.youtube.com/@siradel2026) ·
 [Contact](mailto:opensource@siradel.com)
 
 </div>
 
 [Siradel](https://www.siradel.com) is a French company building 3D geospatial
 software for cities, networks and territories. This organization publishes the
-open-source components of **SCE**, its geospatial ecosystem: process, serve and
-visualize geospatial data in 2D and 3D, on the web and natively, from maps to
-digital twins.
+open-source components of **SCE**, its geospatial ecosystem.
 
-## Horizon, the 3D engine
+## The SCE ecosystem
 
-<a href="https://github.com/siradel-oss/horizon"><img src="https://raw.githubusercontent.com/siradel-oss/horizon/HEAD/public/terrain.webp" alt="Terrain rendered by the Horizon 3D engine" width="100%"></a>
+SCE covers the whole chain, from raw geospatial data to the applications that
+use it, in 2D and 3D, on the web and natively. Start with your need and add
+only the building blocks it takes:
 
-[**Horizon**](https://github.com/siradel-oss/horizon) is a real-time 3D engine
-for map data on a globe. It runs in the browser (WebAssembly, WebGL 2,
-TypeScript) and natively on Windows and Linux (C++, OpenGL), through one
-language-independent API.
+- **Data processing**: convert, tile and optimize orthophotos, rasters,
+  vectors and 3D models for real-time use.
+- **Application server**: ingest, expose and secure data, with per-user access.
+- **Rendering library**: display geospatial data in 2D and 3D.
+- **Business applications**: let domain experts author content, monitor and
+  analyze without code.
 
-- **Terrain and imagery** streamed worldwide down to centimetre resolution:
-  WMS, WMTS, TMS, PMTiles, TileJSON, ArcGIS…
-- **Vector data** in 3D: GeoJSON, MVT, PMTiles, extrusions, instanced models,
-  heatmaps, scripted styling, Mapbox style import.
-- **3D models**: glTF, 3D Tiles and point clouds, at any scale.
-- **Analysis and interaction**: picking, gizmos, viewshed, clipping, in-view
-  editing, multi-view.
+| Building block | Role | Status |
+| --- | --- | --- |
+| [**Horizon**](https://github.com/siradel-oss/horizon) | Real-time 3D engine for map data on a globe, in the browser (WebGL 2) and natively (OpenGL) | Open source, MIT |
+| **MC3D** | Data server and client SDK | Coming soon |
+| **SWA** | Collaborative content authoring: 2D/3D maps and dashboards, without code | Coming soon |
 
-```sh
-npm install @siradel-oss/horizon-core @siradel-oss/horizon-api
-```
-
-[Getting started](https://horizon.oss.siradel.com/doc/getting_started.html) ·
-[Documentation](https://horizon.oss.siradel.com/) ·
-[Releases](https://github.com/siradel-oss/horizon/releases) ·
-[Discussions](https://github.com/siradel-oss/horizon/discussions)
-
-If Horizon is useful to you, a ⭐ on the
-[repository](https://github.com/siradel-oss/horizon) helps others find it.
+[Discover the ecosystem →](https://sce.oss.siradel.com)
 
 ## Demos
 
-Open-source web applications built on Horizon with open data. Each one has a
-live version and its full source code.
+Open-source web applications built on the ecosystem with open data. Each one
+has a live version and its full source code.
 
 <table>
   <tr>
@@ -81,8 +70,8 @@ All demos: [sce.oss.siradel.com/demos](https://sce.oss.siradel.com/demos/)
 
 | Site | What you will find |
 | --- | --- |
-| [sce.oss.siradel.com](https://sce.oss.siradel.com) | The SCE ecosystem, its building blocks and the demo gallery |
-| [horizon.oss.siradel.com](https://horizon.oss.siradel.com) | Horizon documentation, guides and API reference |
+| [sce.oss.siradel.com](https://sce.oss.siradel.com) | The SCE ecosystem: its building blocks and the demo gallery |
+| [horizon.oss.siradel.com](https://horizon.oss.siradel.com) | Horizon, the 3D engine: documentation, guides and API reference |
 | [siradel.com](https://www.siradel.com) | Siradel, products and enterprise offers |
 
 ## Other repositories
