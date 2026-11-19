@@ -1,11 +1,5 @@
 # Contributor Guide
 
-<!--
-    TODO Add or modify any guideline necessary for your
-    project such a issue types, code style, review process,
-    commit messages, documentation, etc.
--->
-
 Thank you for your interest in contributing to this project. We welcome contributions from the community and appreciate your efforts. Please follow the guidelines below to ensure a smooth contribution process.
 
 If you need to contact us for subjects not covered by issues or pull requests, please reach out at opensource@siradel.com.
